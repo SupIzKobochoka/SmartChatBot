@@ -1,0 +1,28 @@
+numpy
+pandas
+dotenv
+
+pymupdf
+sentence-transformers
+
+openai
+langchain
+langgraph
+langchain_openai
+langchain-community
+langchain-huggingface
+langchain_chroma
+
+streamlit
+chromadb
+unstructured
+"unstructured[pdf]" # нужно именно "unstructured[pdf]" с кавычками
+
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch 
+
+psycopg2
+python-docx
+pymorphy3
+contextvars
+aiogram
